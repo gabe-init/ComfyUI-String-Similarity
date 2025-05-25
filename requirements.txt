@@ -1,0 +1,5 @@
+Levenshtein
+scikit-learn
+numpy
+sentence-transformers
+difflib
