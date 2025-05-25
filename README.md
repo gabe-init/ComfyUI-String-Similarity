@@ -2,7 +2,7 @@
 
 A comprehensive text comparison node for ComfyUI that provides multiple algorithms to measure string similarity, useful for OCR validation, text comparison, and quality assessment workflows.
 
-![String Similarity Example](https://github.com/yourusername/ComfyUI-String-Similarity/blob/main/string%20similarity.png?raw=true)
+![String Similarity Example](https://github.com/gabe-init/ComfyUI-String-Similarity/blob/main/string%20similarity.png?raw=true)
 
 ## Features
 
