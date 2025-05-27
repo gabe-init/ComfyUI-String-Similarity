@@ -1,0 +1,15 @@
+[project]
+name = "string_similarity"
+description = "ComfyUI String Similarity Node - Advanced text comparison with multiple algorithms"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["Levenshtein","scikit-learn","numpy","sentence-transformers","difflib"]
+
+[project.urls]
+Repository = "https://github.com/gabe-init/ComfyUI-String-Similarity"
+# Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "gabe-init"
+DisplayName = "ComfyUI-String-Similarity"
+Icon = ""
