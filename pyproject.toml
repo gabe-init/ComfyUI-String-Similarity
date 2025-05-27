@@ -1,7 +1,7 @@
 [project]
 name = "string_similarity"
 description = "ComfyUI String Similarity Node - Advanced text comparison with multiple algorithms"
-version = "1.0.0"
+version = "1.0.1"
 license = {file = "LICENSE"}
 dependencies = ["Levenshtein", "scikit-learn", "numpy", "sentence-transformers"]
 
